@@ -20,3 +20,5 @@ A engenharia de software não se resume à programação, abrangendo não apenas
 <img width="1180" height="673" alt="image" src="https://github.com/user-attachments/assets/d65ade5e-1ba0-4eb8-8871-7a37802db6a9" />
 
 ## 6. Testes automatizados
+<img width="612" height="508" alt="image" src="https://github.com/user-attachments/assets/6374cf2a-844d-4b9f-80ce-f5ebff20cc9f" />
+
